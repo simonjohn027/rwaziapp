@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24582744097",
+    "firebase_url": "https://rwaziapp.firebaseio.com",
+    "project_id": "rwaziapp",
+    "storage_bucket": "rwaziapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24582744097:android:d136409c12207ef88f5b60",
+        "android_client_info": {
+          "package_name": "com.rwazi.rwazi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24582744097-ut3efjrq1u6jj42ghmu6sk2mk6dqjmu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD_sFJEjIomCqxezWm6aOWhxmThtwmoBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24582744097-ut3efjrq1u6jj42ghmu6sk2mk6dqjmu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

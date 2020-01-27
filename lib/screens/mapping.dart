@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:rwazi/components/notification.dart';
-import 'package:rwazi/components/avator_button.dart';
+import 'package:rwazi/components/app_buttons.dart';
 import 'package:rwazi/main.dart';
 
 class Mapping extends StatelessWidget {
