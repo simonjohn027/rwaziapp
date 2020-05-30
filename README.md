@@ -1,16 +1,16 @@
 # rwazi
 
-Mappers and Retails 
+Mappers and Retails Application for the Rwazi company.
+Rwazi collect and Report FMCG data from Retail companie in Mauritius.
+Rwazi App is the mobile application that allow the contractor to collect the data from different shops and mall across the country and submit them direct to the database where they are process and submitted to the Rwazi Client Dashboard via APIs.
 
-## Getting Started
+## Features
+1. Contract Registration
+2. Contract Dashboard 
+3. Google Mapping and Location
+4. Data collection Form
+5. APIs
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Key Technologies
+1. Flutter
+2. GraphQL APIs
